@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobStatus</string>
+    <string name="websocket_connected">Connected</string>
+    <string name="websocket_error_connection">Error Connecting To Server</string>
+    <string name="websocket_connecting">Connecting</string>
+    <string name="websocket_disconnected">Disconnected</string>
+</resources>
